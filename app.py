@@ -12,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+import pathlib
 
 import pydicom
 
@@ -19,5 +20,7 @@ import streamlit as st
 
 
 st.title("Hello World!")
+
+st.write(pathlib.Path.home())
 
 st.write(pydicom)
