@@ -36,7 +36,7 @@ streamlit run app.py
 
 Where you should see a browser window open that looks like the following:
 
-!()[./screenshots/streamlit.png]
+![Streamlit](./screenshots/streamlit.png)
 
 Next, you need to run the following to install cypress:
 
@@ -52,4 +52,4 @@ yarn run cypress open
 
 Which should open a Window that looks like the following:
 
-!()[./screenshots/cypress.png]
+![Cypress](./screenshots/cypress.png)
