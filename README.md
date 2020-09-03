@@ -21,7 +21,7 @@ Gone through the following two pages within the "don't be afraid to commit" tuto
 
 ### Installing local requirements and testing they work
 
-#### Streamlit
+#### Streamlit and pydicom
 
 Then using the skills you have gained in the above tutorial, fork this repository to your own account and run
 the following within your local version:
