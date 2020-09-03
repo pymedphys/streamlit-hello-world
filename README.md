@@ -2,13 +2,14 @@
 
 ## What you need to have done before the lecture
 
-### Installation of git, python, and yarn
+### Installation of git, python, yarn, and VSCode
 
 Installed the following:
 
 * git -- <https://git-scm.com/>
 * yarn -- <https://classic.yarnpkg.com/en/docs/install/>
 * python -- <https://www.python.org/downloads/>
+* vscode -- <https://code.visualstudio.com/>
 
 ### Git and GitHub
 
