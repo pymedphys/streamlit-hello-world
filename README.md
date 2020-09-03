@@ -21,6 +21,8 @@ Gone through the following two pages within the "don't be afraid to commit" tuto
 
 ### Installing local requirements and testing they work
 
+#### Streamlit
+
 Then using the skills you have gained in the above tutorial, fork this repository to your own account and run
 the following within your local version:
 
@@ -37,6 +39,8 @@ streamlit run app.py
 Where you should see a browser window open that looks like the following:
 
 ![Streamlit](./screenshots/streamlit.png)
+
+#### Cypress
 
 Next, you need to run the following to install cypress:
 
